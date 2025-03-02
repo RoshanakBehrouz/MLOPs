@@ -14,7 +14,7 @@ This project provides a simple web application for classifying leaves based on t
 - **Joblib**: Used for saving and loading the trained machine learning model efficiently.
 - **Scikit-Learn**: For training the machine learning model.
 
-##Start the Streamlit web app
+## Start the Streamlit web app
 
 streamlit run app.py
 
